@@ -4,10 +4,6 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import tienda.entidades.Producto;
 
-/**
- *
- * @author Usuario
- */
 public final class ProductoDaoExt extends DAO{
     Scanner readNumber = new Scanner(System.in);
     Scanner readString = new Scanner(System.in);
