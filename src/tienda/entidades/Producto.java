@@ -1,14 +1,5 @@
 package tienda.entidades;
-/**
- * private int codigo;
-• private String nombre;
-• private double precio;
-• private int codigoFabricante;
- */
-/**
- *
- * @author Usuario
- */
+
 public class Producto {
     private Integer codigo;
     private String nombre;
