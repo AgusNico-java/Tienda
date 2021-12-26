@@ -8,10 +8,6 @@ import tienda.entidades.Producto;
 import tienda.persistencia.FabricanteDaoExt;
 import tienda.persistencia.ProductoDaoExt;
 
-/**
- *
- * @author Usuario
- */
 public class ProductoServicio {
     ProductoDaoExt productDAO = new ProductoDaoExt();
     FabricanteDaoExt producerDAO = new FabricanteDaoExt();
