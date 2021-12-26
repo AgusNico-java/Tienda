@@ -1,9 +1,5 @@
 package tienda.entidades;
 
-/**
- *
- * @author Usuario
- */
 public class Fabricante {
     private Integer codigo;
     private String nombre;
