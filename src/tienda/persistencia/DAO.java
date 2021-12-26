@@ -6,10 +6,6 @@ import java.sql.Statement;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-/**
- *
- * @author Usuario
- */
 public abstract class DAO {
     protected Connection conexion = null;
     protected ResultSet resultado = null;
