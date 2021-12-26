@@ -5,10 +5,6 @@ import java.util.Scanner;
 import tienda.entidades.Fabricante;
 import tienda.persistencia.FabricanteDaoExt;
 
-/**
- *
- * @author Usuario
- */
 public class FabricanteServicio {
     Scanner readString = new Scanner (System.in);
     Scanner readNumber = new Scanner (System.in);
