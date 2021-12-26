@@ -1,4 +1,3 @@
-
 package tienda.persistencia;
 
 import java.util.Scanner;
